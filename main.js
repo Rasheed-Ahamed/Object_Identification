@@ -2,6 +2,7 @@ objectDetector= "";
 img = ""; 
 objects = []; 
 Status = ""; 
+number_of_objects = "";
 
 function preload()
 { 
